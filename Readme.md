@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Олеся Ширяева](https://up.htmlacademy.ru/htmlcss/36/user/2283965).
-* Наставник: [Артем Судаков] (https://htmlacademy.ru/profile/sudakovartems).
+* Наставник: [Артем Судаков](https://htmlacademy.ru/profile/sudakovartems).
 
 ---
 
